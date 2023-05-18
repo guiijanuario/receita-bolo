@@ -1,6 +1,8 @@
 ## Algoritimo de como fazer um bolo de chocolate:
 <br />
 
+![Bolo de chocolate](https://img.cybercook.com.br/receitas/325/bolo-grande-de-chocolate-4.jpeg)
+
 1. Separe os ingredientes:
 <ul>
   <li>2 xícaras de farinha de trigo </li>
@@ -17,13 +19,13 @@
  <br />
 </ul>
 
-2. Reúna os ingredientes: farinha de trigo, açúcar, cacau em pó, fermento em pó, bicarbonato de sódio, sal, ovos, leite, óleo, baunilha e água quente.
+2. Reúna os ingredientes em uma tigela grande: farinha de trigo, açúcar, cacau em pó, fermento em pó, bicarbonato de sódio, sal, ovos, leite, óleo, baunilha e água quente.
 
 3. Misture em uma tigela: farinha, açúcar, cacau em pó, fermento em pó, bicarbonato de sódio e sal.
 
-4. Em outra tigela, bata os ovos, adicione leite, óleo e baunilha. Misture bem.
+4. Em outra tigela, bata os ovos por 3 minutos, adicione leite, óleo e baunilha. Misture bem.
 
-5. Combine a mistura líquida com a mistura seca e mexa até ficar homogêneo.
+5. Combine a mistura líquida com a mistura seca e mexa até ficar homogêneo, por cerca de 5 minutos.
 
 6. Adicione água quente e misture novamente.
 
