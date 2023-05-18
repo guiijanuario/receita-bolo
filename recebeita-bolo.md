@@ -1,5 +1,6 @@
 ## Algoritimo de como fazer um bolo de chocolate:
 <br />
+
 1. Separe os ingredientes:
 <ul>
   <li>2 xícaras de farinha de trigo </li>
